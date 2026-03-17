@@ -439,5 +439,12 @@
   "OWNER": "https://github.com/elritardato",
   "DESCRIPTION": "HyDE theme inspired by the Soulsborne series.",
   "COLORSCHEME": ["#0D0D0D", "#E0701E"]
+  },
+  {
+  "THEME": "Chisa",
+  "LINK": "https://github.com/Frz013/Chisa",
+  "OWNER": "https://github.com/Frz013",
+  "DESCRIPTION": "HyDE theme inspired by Chisa from Wuthering Waves.",
+  "COLORSCHEME": ["#0D0D0D", "#E0701E"]
   }
 ]
