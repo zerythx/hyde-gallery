@@ -16,7 +16,7 @@
 | [![Crimson-Blue](https://placehold.co/180x50/0A0005/CCD7FF?text=Crimson-Blue&font=Oswald)](#crimson-blue) | Red with Blue vibes | [amit-0i](https://github.com/amit-0i) |
 | [![Obsidian-Purple](https://placehold.co/180x50/07040C/BDA8DC?text=Obsidian-Purple&font=Oswald)](#obsidian-purple) | Where mystery meets elegance. | [amit-0i](https://github.com/amit-0i) |
 | [![Soulsborne](https://placehold.co/180x50/0D0D0D/E0701E?text=Soulsborne&font=Oswald)](#soulsborne) | HyDE theme inspired by the Soulsborne series. | [elritardato](https://github.com/elritardato) |
-| [![Chisa](https://placehold.co/180x50/0D0D0D/E0701E?text=Chisa&font=Oswald)](#chisa) | HyDE theme inspired by Chisa from Wuthering Waves. | [Frz013](https://github.com/Frz013) |
+| [![Chisa](https://placehold.co/180x50/d2546a/201b25?text=Chisa&font=Oswald)](#chisa) | HyDE theme inspired by Chisa from Wuthering Waves. | [Frz013](https://github.com/Frz013) |
 | [![AncientAliens](https://placehold.co/180x50/09101C/AAD5F0?text=AncientAliens&font=Oswald)](#ancientaliens) | A futuristic alien-like theme. Designed to invoke the feelings of watching the History channel at three in the morning. | [dim-ghub](https://github.com/dim-ghub) |
 | [![Greenify](https://placehold.co/180x50/0e120f/295233?text=Greenify&font=Oswald)](#greenify) | Dark Green based theme for Hyde | [mahaveergurjar](https://github.com/mahaveergurjar) |
 | [![Another World](https://placehold.co/180x50/11111B/6AA9C9?text=Another+World&font=Oswald)](#another-world) | Step beyond the horizon, where reality fades and imagination reigns supreme. | [cyb3rgh0u1](https://github.com/cyb3rgh0u1) |
