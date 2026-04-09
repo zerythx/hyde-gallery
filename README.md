@@ -303,7 +303,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** HyDE theme inspired by Chisa from Wuthering Waves.
 
-[![Chisa Preview](Chisa/preview.png)](https://github.com/Frz013/Chisa) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-d2546a?style=flat&labelColor=d2546a&color=201b25" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Chisa Preview](Chisa/preview.png)](https://github.com/Frz013/Chisa) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-201b25?style=flat&labelColor=d2546a&color=d2546a" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
